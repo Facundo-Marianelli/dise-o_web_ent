@@ -1,0 +1,27 @@
+
+@import url("root.css");
+body {
+    font-family: Arial, sans-serif;
+}
+.underline {
+  text-decoration: underline;
+}
+.section-title {
+  color: var(--color-primario);
+  margin-bottom: 20px;
+}
+
+.cv-info {
+  color: var(--color-fondo)
+}
+
+.btn-contact {
+  background-color: var(--color-secundario);
+  color: #fff; 
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease; 
+}
+
+ 
