@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
 }
 .underline {
-  text-decoration: underline;
+  font-weight: bold;
 }
 .section-title {
   color: var(--color-primario);
